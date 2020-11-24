@@ -1,0 +1,661 @@
+index	question	sentence	label
+0	who has the most to lose	W NJ	entailment
+1	who has the most to lose	nj	not_entailment
+2	what is deflated as much as the new england patriot footballs	forecast	entailment
+3	what is deflated as much as the new england patriot footballs	this forecast	not_entailment
+4	what is the game tied at?	106-106	entailment
+5	what is the game tied at?	106 - 106	not_entailment
+6	what was the score of the game?	106-106	entailment
+7	what was the score of the game?	106 - 106	not_entailment
+8	whose floater did wiggins answer?	Kemba's	entailment
+9	whose floater did wiggins answer?	kemba ' s	not_entailment
+10	who does davis propose eating?	dog ? Eat the pizza	entailment
+11	who does davis propose eating?	a pizza	not_entailment
+12	when did tsonga practice sports?	ahead of his first match in the # Davis Cup Final	not_entailment
+13	when did tsonga practice sports?	ahead of his first match	entailment
+14	what did the inmates do?	escape	entailment
+15	what did the inmates do?	they escaped	not_entailment
+16	how did the inmates escape?	the hole cut in the wall	entailment
+17	how did the inmates escape?	by a hole in the wall	not_entailment
+18	what is the name of the novel?	judyblume	not_entailment
+19	what is the name of the novel?	in the unlikely event	entailment
+20	what is rand paul's new year's resolution?	to speak in vague but bombastic generalities	entailment
+21	what is rand paul's new year's resolution?	he is talking about vague but bombastic generalities	not_entailment
+22	what is rand paul's stance on generalities?	bombastic	entailment
+23	what is rand paul's stance on generalities?	he is a bombastic	not_entailment
+24	who will emilia clarke be celebrating her emmy with?	CN Nent	not_entailment
+25	who will emilia clarke be celebrating her emmy with?	mr . alcohol	entailment
+26	who thinks she is being cyberbullied?	Straight Spags	entailment
+27	who thinks she is being cyberbullied?	rihanna fans	not_entailment
+28	how did he get hurt	hit by a pitch	entailment
+29	how did he get hurt	by a pitch	not_entailment
+30	who does sean mourn here?	Paul Walkers	not_entailment
+31	who does sean mourn here?	paul walker	entailment
+32	why is sean torn over the actor's death?	it's caused by an accident	entailment
+33	why is sean torn over the actor's death?	he is young	not_entailment
+34	when does the author suggest a change?	wait until we are old enough to vote	not_entailment
+35	when does the author suggest a change?	when we are old enough	entailment
+36	what were the greatest tv shows?	BREAKING BAD ( 2008-13 ) was , alongside THE WIRE	not_entailment
+37	what were the greatest tv shows?	breaking bad and the wire	entailment
+38	what years was breaking bad on?	2008-13	entailment
+39	what years was breaking bad on?	2008 - 13	not_entailment
+40	who does brian windhorst work for?	Cavs	not_entailment
+41	who does brian windhorst work for?	espn	entailment
+42	where did james woods want to take amber tamblyn when she was 16?	to Vegas	not_entailment
+43	where did james woods want to take amber tamblyn when she was 16?	vegas	entailment
+44	what is russia supposedly doing?	undermine democracies	entailment
+45	what is russia supposedly doing?	trying to undermine democracies	not_entailment
+46	what country is largely affected?	U.S.	entailment
+47	what country is largely affected?	u . s .	not_entailment
+48	how long has super hero girls been out?	dcgirlpower	not_entailment
+49	how long has super hero girls been out?	a couple of years	entailment
+50	what is submerged in water?	Former ice cream store	not_entailment
+51	what is submerged in water?	a cafe	entailment
+52	what event took place one year ago?	Don Graham's farewell party	entailment
+53	what event took place one year ago?	don graham ' s farewell party	not_entailment
+54	what was it like to work for ben bradlee?	What an honor	entailment
+55	what was it like to work for ben bradlee?	it was honor	not_entailment
+56	who is being cheered for?	the OLYMPICS !! CHEAH !! USA !! Leslie Jones	not_entailment
+57	who is being cheered for?	the usa	entailment
+58	what is the title of the video	Do Ya Think I'm Sexy	entailment
+59	what is the title of the video	do ya think i ' m sexy	not_entailment
+60	what is this tweet about	Net Neutrality	entailment
+61	what is this tweet about	the internet	not_entailment
+62	what is the name of the storm system?	Nate	entailment
+63	what is the name of the storm system?	the 14th atlantic	not_entailment
+64	what number storm is this in the atlantic?	14th	not_entailment
+65	what number storm is this in the atlantic?	14	entailment
+66	what makes us sad	have n’t used AIM	entailment
+67	what makes us sad	it ' s not like they ' re really into aim	not_entailment
+68	what is being done to journalists?	abuse against	not_entailment
+69	what is being done to journalists?	abuse	entailment
+70	what is she wearing at work?	2 scarves and a jacket	not_entailment
+71	what is she wearing at work?	two scarves and a jacket	entailment
+72	how much of her life did patricia arquette spend sharing a bathroom with her transgender sister?	half	not_entailment
+73	how much of her life did patricia arquette spend sharing a bathroom with her transgender sister?	half of her life	entailment
+74	who has a kid together?	Portia and I	entailment
+75	who has a kid together?	portia and ellen	not_entailment
+76	what do they want people to do?	Protect Them	not_entailment
+77	what do they want people to do?	take dreamer in their home	entailment
+78	what country is the person referred to from?	SWISS	not_entailment
+79	what country is the person referred to from?	switzerland	entailment
+80	what do they want to know from harry styles?	Are u going to die in the Dunkirk	entailment
+81	what do they want to know from harry styles?	if they are going to die in dunkirk	not_entailment
+82	what will this person do in response to the bs in corporate america?	write a book or start a podcast	entailment
+83	what will this person do in response to the bs in corporate america?	write rants	not_entailment
+84	if this person was not allowed to vent how would the incident end?	in violence	entailment
+85	if this person was not allowed to vent how would the incident end?	violence	not_entailment
+86	what do you have to do to win a prize?	Show us your best # Office Mug Shot	entailment
+87	what do you have to do to win a prize?	show your best mug shot	not_entailment
+88	what kind of story is being told	a sad	not_entailment
+89	what kind of story is being told	a sad story	entailment
+90	who are they mad at?	Ciara and Russell	not_entailment
+91	who are they mad at?	ciara & russell	entailment
+92	what isn'f future's main priority?	kids	not_entailment
+93	what isn'f future's main priority?	his kids	entailment
+94	what did she delete?	the app	entailment
+95	what did she delete?	aim	not_entailment
+96	who's statements were known as false?	DERSHOWITZ 'S	not_entailment
+97	who's statements were known as false?	dershowitz	entailment
+98	what is mike nichols known for?	a Titan	entailment
+99	what is mike nichols known for?	being a comic	not_entailment
+100	why will jordan feldstein be missed?	May he Rest In Peace	not_entailment
+101	why will jordan feldstein be missed?	he died	entailment
+102	what day do they call barack obama's birthday?	Obama Day	not_entailment
+103	what day do they call barack obama's birthday?	august 4	entailment
+104	why did the military police try to arrest him?	for taking this photo	not_entailment
+105	why did the military police try to arrest him?	for taking a photo	entailment
+106	what is an excuse for sitting for the anthem?	Better Be In A Wheelchair	entailment
+107	what is an excuse for sitting for the anthem?	they ' re in a wheelchair	not_entailment
+108	who is wondering about preventing 9/11?	USAT Opinion  USATODAY	not_entailment
+109	who is wondering about preventing 9/11?	usat opinion and usatoday	entailment
+110	was this person surprised?	No	entailment
+111	was this person surprised?	no surprise	not_entailment
+112	what is not equal anymore?	time?Election is over  There is no more equal time	not_entailment
+113	what is not equal anymore?	time	entailment
+114	what has nick jonas been working on?	record	entailment
+115	what has nick jonas been working on?	making a record	not_entailment
+116	how many shot lead does bowditch have	a 4	entailment
+117	how many shot lead does bowditch have	four	not_entailment
+118	what should you play with?	their emotions	entailment
+119	what should you play with?	emotions	not_entailment
+120	who named one of their shoes "zigi?"	Zayn	entailment
+121	who named one of their shoes "zigi?"	the pr team	not_entailment
+122	what is the favorit part of the video?	the PCL	not_entailment
+123	what is the favorit part of the video?	driving students	entailment
+124	what words are capitalized?	NEW  LEVEL  YESPLS	entailment
+125	what words are capitalized?	new and levels	not_entailment
+126	which misspoken word is the hollywood reporter letting us know about?	Hidden Figures ' # Hidden Fences	not_entailment
+127	which misspoken word is the hollywood reporter letting us know about?	hidden figures	entailment
+128	who asked about a korean group?	A lot of people	entailment
+129	who asked about a korean group?	people	not_entailment
+130	who is picketing on cambridge street?	verizonstrike	entailment
+131	who is picketing on cambridge street?	verizons	not_entailment
+132	who is playing against canada?	Team USA	entailment
+133	who is playing against canada?	usa hockey team	not_entailment
+134	how sad does meghan feel about the show ending?	Very	not_entailment
+135	how sad does meghan feel about the show ending?	very sad	entailment
+136	what type of line is it unreal to stand in?	in line with # Chara	not_entailment
+137	what type of line is it unreal to stand in?	a line	entailment
+138	what year were they standing by the restrooms?	Sochi 2014	not_entailment
+139	what year were they standing by the restrooms?	2014	entailment
+140	whose reaction will john film?	I'm excited	not_entailment
+141	whose reaction will john film?	his reaction	entailment
+142	which tour is mentioned?	therealeve	not_entailment
+143	which tour is mentioned?	the truth	entailment
+144	what does ramon have?	Le Bron James tattoo	not_entailment
+145	what does ramon have?	lebron james tattoo	entailment
+146	who is on his tattoo	Le Bron James	not_entailment
+147	who is on his tattoo	lebron james	entailment
+148	what country is being mapped?	America's	not_entailment
+149	what country is being mapped?	america	entailment
+150	who is cancelling their appearance at the fair tomorrow?	Governor Jay Nixon	entailment
+151	who is cancelling their appearance at the fair tomorrow?	the governor .	not_entailment
+152	why are the appearances canceled?	to visit North # STL County	entailment
+153	why are the appearances canceled?	to visit stl county	not_entailment
+154	what in particular about surveillance images is interesting to him?	can be manipulated and orchestrated	entailment
+155	what in particular about surveillance images is interesting to him?	how they can be manipulated and orchestrated	not_entailment
+156	when was he shooting?	after shoot around	not_entailment
+157	when was he shooting?	after the shoot	entailment
+158	what show does the tweet discuss?	Saturday Night Live	entailment
+159	what show does the tweet discuss?	snl	not_entailment
+160	what is this event for?	NHLAll	not_entailment
+161	what is this event for?	the nhl awards	entailment
+162	who is releasing music this year together?	Selena and Abel	not_entailment
+163	who is releasing music this year together?	selena & abel	entailment
+164	who just came back from thumb surgery?	the # Rockies Trevor	entailment
+165	who just came back from thumb surgery?	trevor	not_entailment
+166	what parts of the u.s. are impacted?	central and eastern	entailment
+167	what parts of the u.s. are impacted?	central & eastern	not_entailment
+168	what did she forget?	my ID	not_entailment
+169	what did she forget?	her id	entailment
+170	who's concert did the eagles of death metal return to?	Paris at U 2	not_entailment
+171	who's concert did the eagles of death metal return to?	u2	entailment
+172	what will the country realize?	how good we had it	entailment
+173	what will the country realize?	that we had it	not_entailment
+174	what is burchett saying about the decision?	This is the right decision	not_entailment
+175	what is burchett saying about the decision?	it is the right decision	entailment
+176	what is bruchetts saying they need to find?	coach	not_entailment
+177	what is bruchetts saying they need to find?	the right coach	entailment
+178	when was the zamboni unveiled?	during the 1st intermission	not_entailment
+179	when was the zamboni unveiled?	1st intermission	entailment
+180	who said not to come due to personal life?	Lindsay Ell	not_entailment
+181	who said not to come due to personal life?	the radio station	entailment
+182	what does trinity think of calling muggle no-maj?	refuse	not_entailment
+183	what does trinity think of calling muggle no-maj?	she will not do it .	entailment
+184	what does kerry washington think of instyle's statement?	Beautiful	not_entailment
+185	what does kerry washington think of instyle's statement?	it is beautiful	entailment
+186	what happens when kanye stands up?	sounds like autotune	entailment
+187	what happens when kanye stands up?	he sounds like autotune	not_entailment
+188	who is kyrie saying thanks to?	Dad	not_entailment
+189	who is kyrie saying thanks to?	his dad	entailment
+190	who is back on the show?	Maksim	entailment
+191	who is back on the show?	maks	not_entailment
+192	what was kim kardashian doing which made her late?	cashing my 80 million video game check	not_entailment
+193	what was kim kardashian doing which made her late?	cashing her 80 million video game check	entailment
+194	what time of day does michael refer to?	dress tonight 🎵 — Michael	not_entailment
+195	what time of day does michael refer to?	night	entailment
+196	who is taylor swift dating?	Tom Hiddleston's	not_entailment
+197	who is taylor swift dating?	tom hiddleston	entailment
+198	how long has nick known about taylor's relationship?	7 minutes	not_entailment
+199	how long has nick known about taylor's relationship?	seven minutes	entailment
+200	what is the name of the song?	this song — Kim Kardashian	entailment
+201	what is the name of the song?	i cry every time i hear it	not_entailment
+202	who suffered the fouls?	the Celtics	not_entailment
+203	who suffered the fouls?	harden	entailment
+204	how many fouls were there?	2	entailment
+205	how many fouls were there?	two	not_entailment
+206	what happened to philando castile?	the murder	entailment
+207	what happened to philando castile?	she died	not_entailment
+208	who is showing this poster?	Emma Watson	entailment
+209	who is showing this poster?	all of you	not_entailment
+210	how many minutes of leftshark did alex mention?	5	entailment
+211	how many minutes of leftshark did alex mention?	five	not_entailment
+212	what was discussed in phone calls?	hard times in my life	not_entailment
+213	what was discussed in phone calls?	hard times	entailment
+214	where is the memorabilia?	Tennessee	entailment
+215	where is the memorabilia?	his place in tennessee	not_entailment
+216	how old is eurovision?	61 years	entailment
+217	how old is eurovision?	61	not_entailment
+218	where did they go?	the beach	entailment
+219	where did they go?	down to the beach	not_entailment
+220	how much is his book deal worth?	250 K	not_entailment
+221	how much is his book deal worth?	$ 250k	entailment
+222	who won the medals?	katieledecky	entailment
+223	who won the medals?	the gold	not_entailment
+224	what is this tweet in praise of?	Stunning visuals  Iconic performances  And A REAL FREAKING STORY about a wealthy nation confronting its role in the world  Black Panther	entailment
+225	what is this tweet in praise of?	stunning visuals	not_entailment
+226	what did the president ask sessions?	his resignation	not_entailment
+227	what did the president ask sessions?	for his resignation	entailment
+228	where is this dress from?	Target haul	entailment
+229	where is this dress from?	kukkatori print dress	not_entailment
+230	what kind of dress is present?	Kukkatori print	not_entailment
+231	what kind of dress is present?	kukkatori print dress	entailment
+232	what is being welcomed?	their contempt	entailment
+233	what is being welcomed?	contempt	not_entailment
+234	after what routine did simone biles smile?	bar routine	not_entailment
+235	after what routine did simone biles smile?	after her best bar routine	entailment
+236	what is the fiction author, john green, agreeing not to use again in a book or elsewhere?	the word	entailment
+237	what is the fiction author, john green, agreeing not to use again in a book or elsewhere?	the word " the word "	not_entailment
+238	with which actor's character does david feel bad?	Donald Glover	not_entailment
+239	with which actor's character does david feel bad?	han solo	entailment
+240	why are so many people gathered in one place?	arrived in London	not_entailment
+241	why are so many people gathered in one place?	to get to the station	entailment
+242	how long did it take the predators to score 3 goals?	a 2:19	not_entailment
+243	how long did it take the predators to score 3 goals?	2 : 19 span	entailment
+244	who is speaking at harvards jfkjr forum?	Rand Paul	entailment
+245	who is speaking at harvards jfkjr forum?	sen rand paul	not_entailment
+246	when is the jkjjr forum?	4/25	entailment
+247	when is the jkjjr forum?	4 / 25	not_entailment
+248	who makes them want to punch themself?	Olivia	entailment
+249	who makes them want to punch themself?	olivia from the bachelor	not_entailment
+250	who is ryan's baby girl?	a daughter  — Ryan Reynolds	not_entailment
+251	who is ryan's baby girl?	he has a daughter	entailment
+252	what is on their timeline currently?	Gilmore Girls	entailment
+253	what is on their timeline currently?	gilmore girls happy	not_entailment
+254	who is cheering on micael phelps?	KD Trey 5 and  deandrejordan 6	entailment
+255	who is cheering on micael phelps?	the espn cast	not_entailment
+256	what does matt compare to the worth of a toyota corolla?	Ferrari	entailment
+257	what does matt compare to the worth of a toyota corolla?	his price	not_entailment
+258	at what cost should the internet be?	free and open to all	not_entailment
+259	at what cost should the internet be?	free and open	entailment
+260	how much does jordan care about @ivankatrump's words?	mean nothing	not_entailment
+261	how much does jordan care about @ivankatrump's words?	they mean nothing	entailment
+262	where is rapper drake from?	London	entailment
+263	where is rapper drake from?	houstonian jamaican	not_entailment
+264	where is the star wars fan concert?	Sdcc 2	not_entailment
+265	where is the star wars fan concert?	sdcc	entailment
+266	who has first pick?	Smith	not_entailment
+267	who has first pick?	houston texans	entailment
+268	what is rob lecturing about?	what Martin Luther King Jr. would have done	entailment
+269	what is rob lecturing about?	martin luther king jr .	not_entailment
+270	what is the surprise?	justinbieber is here	not_entailment
+271	what is the surprise?	justin biber is here	entailment
+272	what can you watch?	his set LIVE	entailment
+273	what can you watch?	the show	not_entailment
+274	what are they trying to do with it?	get my # mets tattoo	not_entailment
+275	what are they trying to do with it?	get it on	entailment
+276	what happens when you mess with rosie?	you're messing with me	entailment
+277	what happens when you mess with rosie?	you ' re messing with her	not_entailment
+278	who is new in town?	hero	entailment
+279	who is new in town?	a new hero	not_entailment
+280	what did the fans vote for?	us to be in the Rock Hall	not_entailment
+281	what did the fans vote for?	to be in the rock hall	entailment
+282	what does bon jovi appreciate?	votes , posts , and videos	entailment
+283	what does bon jovi appreciate?	his votes , posts , and videos	not_entailment
+284	what did cooper say about drouin?	Drouin will play	not_entailment
+285	what did cooper say about drouin?	he will play on the trip	entailment
+286	who does lena dunham love?	you all	entailment
+287	who does lena dunham love?	all of us	not_entailment
+288	how many more years	2	not_entailment
+289	how many more years	two	entailment
+290	who's show is this update from?	Kanye's	entailment
+291	who's show is this update from?	kanye ' s	not_entailment
+292	how long did they see this view?	50 mins	not_entailment
+293	how long did they see this view?	50 minutes	entailment
+294	what type of album does she think he's putting out?	a country album	entailment
+295	what type of album does she think he's putting out?	country	not_entailment
+296	what did the tenors do?	held " All Lives Matter " card up	not_entailment
+297	what did the tenors do?	sang the canadian anthem	entailment
+298	what does n't she need?	EYES	not_entailment
+299	what does n't she need?	eyes to seei	entailment
+300	which jokes ae tired?	Stay in your seat , Kanye	entailment
+301	which jokes ae tired?	" stay in your seat "	not_entailment
+302	what was cited as comparison of a tired joke?	revisiting Wayne's World in 2015	entailment
+303	what was cited as comparison of a tired joke?	revisiting wayne ' s world	not_entailment
+304	what did they apologizes for?	Everyone makes mistakes	entailment
+305	what did they apologizes for?	classy move	not_entailment
+306	what will they bring back to gratness	reputation	not_entailment
+307	what will they bring back to gratness	the fbi	entailment
+308	who had a baby	serenawilliams So excited for you and  alexisohanian	not_entailment
+309	who had a baby	serena jean king	entailment
+310	what can't he wait for	to see you	not_entailment
+311	what can't he wait for	his little girl	entailment
+312	what sport is being discussed?	Nets	not_entailment
+313	what sport is being discussed?	basketball	entailment
+314	what did the lack of a foul call result in?	we win	not_entailment
+315	what did the lack of a foul call result in?	the win	entailment
+316	what kind of moment did lefou have?	a " gay	not_entailment
+317	what kind of moment did lefou have?	a gay moment	entailment
+318	what does new u help with?	Kotex ® Bandages	not_entailment
+319	what does new u help with?	blisters	entailment
+320	who do you expect better from?	megynkelly	entailment
+321	who do you expect better from?	megyn kelly	not_entailment
+322	who is the fight on for?	The USCMayor : The only colors you need to know … # Cardinaland Gold # Fight On 8 — USC Trojans	entailment
+323	who is the fight on for?	the usc trojans	not_entailment
+324	what is at the location?	the giant herd of # starwars concert	not_entailment
+325	what is at the location?	a starwars concert	entailment
+326	what are the attendees doing?	starwars concert	not_entailment
+327	what are the attendees doing?	making their way to show	entailment
+328	who was cast in wrinkleintime?	Mindy Kaling	entailment
+329	who was cast in wrinkleintime?	ava	not_entailment
+330	what are they going to bring back?	a copy	not_entailment
+331	what are they going to bring back?	tapes	entailment
+332	where are the democrats smiling?	D.C.	entailment
+333	where are the democrats smiling?	d . c .	not_entailment
+334	what do the sources tell him?	HBO is done w / the NHL	not_entailment
+335	what do the sources tell him?	hbo is done with the nhl	entailment
+336	what will hbo stop producing?	a 24/7 Series	entailment
+337	what will hbo stop producing?	a 24 / 7 series	not_entailment
+338	what will they laugh at?	musfortune	not_entailment
+339	what will they laugh at?	someone ' s horrible musfortune	entailment
+340	what do the strangers have?	the covfefe	entailment
+341	what do the strangers have?	covfe	not_entailment
+342	whom does gal gadot wish to ask a question?	chrishemsworth	not_entailment
+343	whom does gal gadot wish to ask a question?	chris hemsworth	entailment
+344	where is gordon putting up shots?	L.A.	entailment
+345	where is gordon putting up shots?	l . a .	not_entailment
+346	who did @kylekallgren think died?	George R.R. Martin	entailment
+347	who did @kylekallgren think died?	george r . r . martin	not_entailment
+348	what should those who compare curry do?	Shutup and enjoy THE SHOW	entailment
+349	what should those who compare curry do?	shut up and enjoy the show	not_entailment
+350	who is taking the dancing abc stage?	Mr Drew Scott's	not_entailment
+351	who is taking the dancing abc stage?	mr . drew scott	entailment
+352	what is the purpose of this post?	introduce you to Harry , Ginny and Albus Potter	not_entailment
+353	what is the purpose of this post?	to introduce you to harry potter	entailment
+354	so, you're an independent person?	Rachel Lindsay	not_entailment
+355	so, you're an independent person?	i ' m an independent person	entailment
+356	do you cut your grass every week?	low	not_entailment
+357	do you cut your grass every week?	i keep it low	entailment
+358	what does nicki say she will do?	writing raps	entailment
+359	what does nicki say she will do?	write raps	not_entailment
+360	what does shannon have anxiety about?	my faith	not_entailment
+361	what does shannon have anxiety about?	her faith	entailment
+362	what is different about jay z's friends?	a black cast	entailment
+363	what is different about jay z's friends?	their black cast	not_entailment
+364	if you donate what will you recieve?	a free pair of limited edition  George HWBush socks	not_entailment
+365	if you donate what will you recieve?	a free pair of george hwbush socks	entailment
+366	what did they think of the dress?	I love it	entailment
+367	what did they think of the dress?	it loved it	not_entailment
+368	what happened in the protests?	those hurt	not_entailment
+369	what happened in the protests?	someone got hurt	entailment
+370	who is the artist in the photo?	justinbieber	not_entailment
+371	who is the artist in the photo?	justin bieber	entailment
+372	what has this revival done?	given me new life	entailment
+373	what has this revival done?	it has given her new life	not_entailment
+374	what was rhianna meant to do?	slaughter the competition	entailment
+375	what was rhianna meant to do?	slaughter the competition each year	not_entailment
+376	what is being drank this evening?	champagne glasses	not_entailment
+377	what is being drank this evening?	champagne	entailment
+378	what does the person give a warning about?	what you wish for	entailment
+379	what does the person give a warning about?	wishing	not_entailment
+380	which person is being referred to in this tweet?	Ariana's	not_entailment
+381	which person is being referred to in this tweet?	ariana	entailment
+382	where did nicki go after she got beat up?	outside with her brothers	not_entailment
+383	where did nicki go after she got beat up?	outside	entailment
+384	what do we have to stop?	nonsense	not_entailment
+385	what do we have to stop?	this nonsense	entailment
+386	what did they have to run for every turnover?	17's	entailment
+387	what did they have to run for every turnover?	17 ' s	not_entailment
+388	who made there superhearo smile?	chrishemsworth	not_entailment
+389	who made there superhearo smile?	chris hemsworth	entailment
+390	who is laughing uncontrollably?	a dear friend	entailment
+391	who is laughing uncontrollably?	anne hathaway	not_entailment
+392	what kind of person does this person describe megyn kelly as?	a bimbo	not_entailment
+393	what kind of person does this person describe megyn kelly as?	a lightweight reporter	entailment
+394	what are the citizens appealing to?	their future VPOTUS	entailment
+395	what are the citizens appealing to?	future vpotus	not_entailment
+396	what is the angry white man joking about?	the women	not_entailment
+397	what is the angry white man joking about?	women at the march syncing periods	entailment
+398	what did dunham want to do to retaliate?	beat him to it	entailment
+399	what did dunham want to do to retaliate?	she wanted to beat him to it	not_entailment
+400	when will okafor tick white british?	From now on when I apply for a job	entailment
+401	when will okafor tick white british?	when he applies for a job	not_entailment
+402	what state's senate is referred to?	Alabama ’s	not_entailment
+403	what state's senate is referred to?	alabama	entailment
+404	what award were they celebrating?	Women In Film award	not_entailment
+405	what award were they celebrating?	women in film	entailment
+406	how many minutes since the last train arrived?	20 min	entailment
+407	how many minutes since the last train arrived?	20 minutes	not_entailment
+408	 .@ Fox News Leisure (@fxnleisure) January 27, 2016	creates	not_entailment
+409	 .@ Fox News Leisure (@fxnleisure) January 27, 2016	the iowa cafe creates trump burger	entailment
+410	what do they want to do after seizing the means?	we brunch	not_entailment
+411	what do they want to do after seizing the means?	brunch	entailment
+412	what three letters does ashley think might be screwing with her?	Arie	not_entailment
+413	what three letters does ashley think might be screwing with her?	abc	entailment
+414	how long did lanier serve as chief of police?	26 yrs with MPD , the last 10	not_entailment
+415	how long did lanier serve as chief of police?	10 years	entailment
+416	who is the grammys prez?	Neil Portnow's	not_entailment
+417	who is the grammys prez?	neil portnow	entailment
+418	who owns the candy shop?	dylan's	not_entailment
+419	who owns the candy shop?	dylan	entailment
+420	what action does the tweeter mention?	run to each other	not_entailment
+421	what action does the tweeter mention?	running to each other	entailment
+422	what does the tweeter imply?	The way they run to each other	not_entailment
+423	what does the tweeter imply?	that they run to each other	entailment
+424	what personality is the tweeter talking about?	Le Bron	not_entailment
+425	what personality is the tweeter talking about?	lebron	entailment
+426	what is the tweeter's opinion?	Sad	not_entailment
+427	what is the tweeter's opinion?	that lebron is uncharacteristic	entailment
+428	what did the tweeter used to do?	call me and	not_entailment
+429	what did the tweeter used to do?	call me	entailment
+430	what is wrong with patricia's daughter?	headache	entailment
+431	what is wrong with patricia's daughter?	she got headache	not_entailment
+432	who is lying about height?	Conan OBrien's	not_entailment
+433	who is lying about height?	conan obrien	entailment
+434	what does he say the police did to him?	get harassed —	entailment
+435	what does he say the police did to him?	he was in the wrong skin	not_entailment
+436	how does he describe the obama family?	The nicest	not_entailment
+437	how does he describe the obama family?	the nicest family on earth	entailment
+438	what is ryan thanking his mom for?	being my number 1 cheerleader	not_entailment
+439	what is ryan thanking his mom for?	being his number one cheerleader	entailment
+440	what will the arena be framed by	Pat Quinn Way and Griffiths Way	not_entailment
+441	what will the arena be framed by	pat quinn way & griffiths way	entailment
+442	who is steph curry and under armour targeting	emergency room nurse	not_entailment
+443	who is steph curry and under armour targeting	emergency room nurse demographic	entailment
+444	what is @electricmayhem asked for?	a song	not_entailment
+445	what is @electricmayhem asked for?	a song to release on christmas	entailment
+446	who was obama joking with?	Canadian PM Trudeau	not_entailment
+447	who was obama joking with?	pm trudeau	entailment
+448	what country is trudeau from?	Canadian	not_entailment
+449	what country is trudeau from?	canada	entailment
+450	what was the bus's destination?	Birmingham	not_entailment
+451	what was the bus's destination?	birmingham area	entailment
+452	who is going overboard in the text?	deaththreats	not_entailment
+453	who is going overboard in the text?	some critics choice # deaththreats	entailment
+454	who did manuel played something for?	genius Quiara	not_entailment
+455	who did manuel played something for?	quiara	entailment
+456	when do our lives begin to end?	the day we become silent about things that matter	entailment
+457	when do our lives begin to end?	the day we become silent	not_entailment
+458	what has tredeau being giving some thought?	Chandler	not_entailment
+459	what has tredeau being giving some thought?	whether to punch chandler	entailment
+460	what state is moore in at that moment?	louise	not_entailment
+461	what state is moore in at that moment?	she is in florida	entailment
+462	who is zillgitt talking about who was yesterday?	Le Bron James	not_entailment
+463	who is zillgitt talking about who was yesterday?	lebron james	entailment
+464	who showed up to the game?	Kane guy	not_entailment
+465	who showed up to the game?	kane	entailment
+466	how did he play in the game?	pretty good	entailment
+467	how did he play in the game?	he was pretty good	not_entailment
+468	whats wrong with justice league movie ?	Henry Cavill's mustache	entailment
+469	whats wrong with justice league movie ?	it ' s a cartoon	not_entailment
+470	which actors mustache keeps appearing throughout the justice league movie ?	Henry Cavill's	entailment
+471	which actors mustache keeps appearing throughout the justice league movie ?	henry cavill	not_entailment
+472	where does she like grease>	on my scalp	entailment
+473	where does she like grease>	her scalp	not_entailment
+474	how old is the iphone?	less than 1 year old	not_entailment
+475	how old is the iphone?	less than one year old	entailment
+476	what did apple do to the phone?	slowing my phone down to save the battery	not_entailment
+477	what did apple do to the phone?	it was slowing down	entailment
+478	who is he sharing cake with?	Isaac_H_Wright	entailment
+479	who is he sharing cake with?	isaac _ h _ wright	not_entailment
+480	who lifted his arm up?	Gibbons on Martin	not_entailment
+481	who lifted his arm up?	martin	entailment
+482	what is the perfect gift?	peachcandle	not_entailment
+483	what is the perfect gift?	a gift to give away	entailment
+484	how does sarah want to receive hope?	someone	not_entailment
+485	how does sarah want to receive hope?	by accepting it	entailment
+486	what was the name of the hall where the hate speech was found	EMU's King Hall	not_entailment
+487	what was the name of the hall where the hate speech was found	king hall	entailment
+488	who needs to throw a party for 4th of july to happen?	taylorswift 13	not_entailment
+489	who needs to throw a party for 4th of july to happen?	taylor swift	entailment
+490	how many black man were shot in 2015	More than 6,000	entailment
+491	how many black man were shot in 2015	more than 6 , 000	not_entailment
+492	what are the race of the men shot?	blacks	not_entailment
+493	what are the race of the men shot?	black	entailment
+494	what did they try on?	everything I could grab	not_entailment
+495	what did they try on?	mesh & booty shorts	entailment
+496	whose shocked face are we urged to look at?	Diane Keaton's	not_entailment
+497	whose shocked face are we urged to look at?	diane keaton	entailment
+498	whose laker's plans is taylor concerned with?	Paul George's	not_entailment
+499	whose laker's plans is taylor concerned with?	paul george	entailment
+500	what are the person's qualifications?	full of spice , and	entailment
+501	what are the person's qualifications?	he is full of spice	not_entailment
+502	who is she congratulating	Alabama  Your vote counted  To all the women who came forward	not_entailment
+503	who is she congratulating	alabama	entailment
+504	who is he replying to	Kanye	not_entailment
+505	who is he replying to	@ the cauldron	entailment
+506	who holds kanye down	Wayne's World	entailment
+507	who holds kanye down	wayne ' s world	not_entailment
+508	what is sarah doing?	screaming at each other	entailment
+509	what is sarah doing?	watching justice league	not_entailment
+510	what is westjet doing?	Introducing our newest custom painted aircraft	entailment
+511	what is westjet doing?	custom painted aircraft	not_entailment
+512	what is the aircraft inspired by?	Disney's Frozen	entailment
+513	what is the aircraft inspired by?	disney ' s frozen	not_entailment
+514	why is he so happy?	is living his best Super Bowl EVER	entailment
+515	why is he so happy?	the super bowl .	not_entailment
+516	who is being prayed for?	Jules	entailment
+517	who is being prayed for?	his friend jules	not_entailment
+518	who was the performance by?	Logic 301	not_entailment
+519	who was the performance by?	logic 301 and alessiacara	entailment
+520	who's store was talked about?	SJP's	entailment
+521	who's store was talked about?	sjp	not_entailment
+522	what is priyanka looking forward to doing?	getting back to work	entailment
+523	what is priyanka looking forward to doing?	getting back to work as soon as she can	not_entailment
+524	what reinforces an idea about black actors?	Casting Zoe Saldana and darkening her skin	entailment
+525	what reinforces an idea about black actors?	casting zoe saldana	not_entailment
+526	how can a stone of hope be hewn?	out of the mountain of despair	entailment
+527	how can a stone of hope be hewn?	out of despair	not_entailment
+528	tweet did not show	Zelda Williams	not_entailment
+529	tweet did not show	tweet did not show	entailment
+530	who is this cover starring?	wonder babe  Zendaya	not_entailment
+531	who is this cover starring?	zendaya	entailment
+532	what people did this person meet?	Benedict Cumberbatch	entailment
+533	what people did this person meet?	benedict cumberbatch and a nice chap	not_entailment
+534	what is untweetable for susan today?	Everything I want to say	not_entailment
+535	what is untweetable for susan today?	everything she wants to say	entailment
+536	what famous person is the tweeter talking about?	Kanye's	not_entailment
+537	what famous person is the tweeter talking about?	kanye	entailment
+538	how did the racist tweets affect suban?	n’t	not_entailment
+539	how did the racist tweets affect suban?	they were not affected by him .	entailment
+540	what do they want to happen to the shootings and deaths?	THIS NEEDS TO STOP	entailment
+541	what do they want to happen to the shootings and deaths?	stop	not_entailment
+542	what is one thing that the narrator does not do?	steal people's boyfriends	entailment
+543	what is one thing that the narrator does not do?	steal people ' s boyfriends	not_entailment
+544	what happened to her morals of not stealing boyfriends?	you ruined that	not_entailment
+545	what happened to her morals of not stealing boyfriends?	she ruined it .	entailment
+546	which teams were playing each other in soccer?	Turkey vs Greece	not_entailment
+547	which teams were playing each other in soccer?	turkey and greece	entailment
+548	what are the people cheering for?	the president's motorcade	entailment
+549	what are the people cheering for?	the president ' s motorcade	not_entailment
+550	who did the halftime show?	ladygaga	not_entailment
+551	who did the halftime show?	lady gaga	entailment
+552	what is the event for?	Rally 4 Peace	not_entailment
+553	what is the event for?	for lost loved ones	entailment
+554	what is being pondered about lee?	you look familiar	not_entailment
+555	what is being pondered about lee?	what she looks familiar	entailment
+556	what did walmart give?	gift	not_entailment
+557	what did walmart give?	an amazing gift	entailment
+558	what color carpet did hawks say she saw?	purple	entailment
+559	what color carpet did hawks say she saw?	black panther purple carpet	not_entailment
+560	what is the reaction to the sell out?	Wow now the LIGHT has sold out !!! —	entailment
+561	what is the reaction to the sell out?	it ' s the light	not_entailment
+562	what happened to anton yelchin?	taken by him	not_entailment
+563	what happened to anton yelchin?	he died	entailment
+564	what could he not recall?	who ’s been naughty or nice	not_entailment
+565	what could he not recall?	who ' s been naughty or nice	entailment
+566	what would be super funny?	Hall of Presidents figure	not_entailment
+567	what would be super funny?	telling donald trump that he is un - mad	entailment
+568	what did he do to her when she thought they were taking a picture?	kissed	not_entailment
+569	what did he do to her when she thought they were taking a picture?	kissed her	entailment
+570	who does a source close to angela think still has time to do the right thing?	jeremy	entailment
+571	who does a source close to angela think still has time to do the right thing?	jeremy eagle	not_entailment
+572	what time will eagle announce?	at 3	not_entailment
+573	what time will eagle announce?	3	entailment
+574	in whose donation bag does aisha feel justin found his outfit?	Johnny Depp ’s	not_entailment
+575	in whose donation bag does aisha feel justin found his outfit?	johnny depp	entailment
+576	what did aisha notice about justin performing at the super bowl?	is wearing an outfit	entailment
+577	what did aisha notice about justin performing at the super bowl?	that he wore an outfit	not_entailment
+578	what news does kalandria have for kanye?	I would 've voted for Trump	entailment
+579	what news does kalandria have for kanye?	she has news for him	not_entailment
+580	what phrase would marcus like corrected about a story?	REVENGE PORN	not_entailment
+581	what phrase would marcus like corrected about a story?	leaked nudes	entailment
+582	what does marcus call nude photos in this case?	REVENGE PORN	entailment
+583	what does marcus call nude photos in this case?	leaked porn	not_entailment
+584	what governor was sanford referring to?	Gov Haley	not_entailment
+585	what governor was sanford referring to?	haley	entailment
+586	what is the photoshoot for?	V : V Magazine	not_entailment
+587	what is the photoshoot for?	v magazine	entailment
+588	what was the photo of?	Downton Abbey	entailment
+589	what was the photo of?	a waterbottle	not_entailment
+590	who are they talking to?	several people in NHL management	not_entailment
+591	who are they talking to?	nhl management	entailment
+592	who needs to relax on desean jackson?	all  eagles fans	not_entailment
+593	who needs to relax on desean jackson?	eagles fans	entailment
+594	how many catches did he have?	over 80	entailment
+595	how many catches did he have?	80	not_entailment
+596	who dropped the ball?	TCU's punter	entailment
+597	who dropped the ball?	tcu ' s punter	not_entailment
+598	what bar was bill murray at?	Oscars bar	entailment
+599	what bar was bill murray at?	oscars	not_entailment
+600	when was he at oscars bar?	about 1 AM	not_entailment
+601	when was he at oscars bar?	1 am	entailment
+602	what can't his dad stop listening to?	Residente's verse on Immigrants	entailment
+603	what can't his dad stop listening to?	residente ' s verse on immigrants	not_entailment
+604	are a lot or a little amount of people texting to ask if marissa saw pizza rat?	the amount	not_entailment
+605	are a lot or a little amount of people texting to ask if marissa saw pizza rat?	a lot	entailment
+606	are people calling or texting marissa to ask if she saw pizza rat?	texted	entailment
+607	are people calling or texting marissa to ask if she saw pizza rat?	people who texted	not_entailment
+608	according to margaret mead, what must the small group of citizens be in order to change the world?	thoughtful , committed	not_entailment
+609	according to margaret mead, what must the small group of citizens be in order to change the world?	thoughtful and committed	entailment
+610	how many jerseys does he have?	10,000	entailment
+611	how many jerseys does he have?	10 , 000	not_entailment
+612	where is the link found?	IN BIO	not_entailment
+613	where is the link found?	bio	entailment
+614	who does jussie claim they love?	F.U.W.   Less distraction  More action  Live now  LINK IN BIO  Love y' all	not_entailment
+615	who does jussie claim they love?	y ' all	entailment
+616	what type of video did bon jovi post?	Amazing	entailment
+617	what type of video did bon jovi post?	an amazing reunion	not_entailment
+618	what year's class of students is bon jovi looking forward to seeing do great things?	2017	entailment
+619	what year's class of students is bon jovi looking forward to seeing do great things?	class of 2017	not_entailment
+620	how many years did cameron diaz take a break from movies?	a 3	entailment
+621	how many years did cameron diaz take a break from movies?	3 year	not_entailment
+622	what would galiberal like to happen to cops?	Deprogram b 4	not_entailment
+623	what would galiberal like to happen to cops?	they would be deprogrammed	entailment
+624	what activity does vanity fair address in this tweet?	juggle	not_entailment
+625	what activity does vanity fair address in this tweet?	it is talking about oprah	entailment
+626	how does snoopdogg help charity?	being an auctioneer	entailment
+627	how does snoopdogg help charity?	by selling his blunt	not_entailment
+628	how many general managers have there been in nyr franchise history?	the 11th	not_entailment
+629	how many general managers have there been in nyr franchise history?	11	entailment
+630	who does becca say is congratulated?	Le Bron 9	not_entailment
+631	who does becca say is congratulated?	lebron	entailment
+632	who should not be forgotten?	BB 8 - The Duke and Prince Harry	not_entailment
+633	who should not be forgotten?	bb8	entailment
+634	which days will mammoth be open?	daily into August	entailment
+635	which days will mammoth be open?	august	not_entailment
+636	why did cuomo open a statewide hotline?	to report incidents of bias , because this state celebrates our differences	entailment
+637	why did cuomo open a statewide hotline?	because this state celebrates our differences	not_entailment
+638	why does cuomo want incidents of bias to be reported?	this state celebrates our differences	entailment
+639	why does cuomo want incidents of bias to be reported?	because this state celebrates our differences	not_entailment
+640	how were the troops received at the vmas?	PROUDLY welcoming	entailment
+641	how were the troops received at the vmas?	they were greeted with cheers	not_entailment
+642	why did trump congratulate scott?	a great speech	not_entailment
+643	why did trump congratulate scott?	for a great speech	entailment
+644	what kind of session was this?	an  aircadets flight simulator training	not_entailment
+645	what kind of session was this?	flight simulator training	entailment
+646	what did he find after the picture was taken?	shirt	not_entailment
+647	what did he find after the picture was taken?	his shirt	entailment
+648	where is this person eating?	an airport	not_entailment
+649	where is this person eating?	in an airport	entailment
+650	what is the only thing this person wants to do?	listen to Beyoncé	not_entailment
+651	what is the only thing this person wants to do?	listen to beyonce	entailment
+652	what has this person have a chance to do?	honor 2 more legends of our sport	not_entailment
+653	what has this person have a chance to do?	honor two legends	entailment
+654	which discipline do these legends belong to	sport  # respect # 84	entailment
+655	which discipline do these legends belong to	basketball	not_entailment
+656	joe hopes that kids do not do what?	running up to ppl ’s homes	not_entailment
+657	joe hopes that kids do not do what?	running up to ppl homes	entailment
+658	why shouldn't kids run up to people's homes?	It ’s dangerous	not_entailment
+659	why shouldn't kids run up to people's homes?	it ' s dangerous	entailment
