@@ -56,7 +56,23 @@ COLING 2020
 2. UniLM is from: https://github.com/microsoft/unilm
 3. Transformers is from: https://github.com/huggingface/transformers
 
-## How do I cite MT-DNN?
+## How do I cite NUT-RC?
 ```
-
+@inproceedings{huang-etal-2020-nut,
+    title = "{NUT}-{RC}: Noisy User-generated Text-oriented Reading Comprehension",
+    author = "Huang, Rongtao  and
+      Zou, Bowei  and
+      Hong, Yu  and
+      Zhang, Wei  and
+      Aw, AiTi  and
+      Zhou, Guodong",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.242",
+    pages = "2687--2698",
+    abstract = "Reading comprehension (RC) on social media such as Twitter is a critical and challenging task due to its noisy, informal, but informative nature. Most existing RC models are developed on formal datasets such as news articles and Wikipedia documents, which severely limit their performances when directly applied to the noisy and informal texts in social media. Moreover, these models only focus on a certain type of RC, extractive or generative, but ignore the integration of them. To well address these challenges, we come up with a noisy user-generated text-oriented RC model. In particular, we first introduce a set of text normalizers to transform the noisy and informal texts to the formal ones. Then, we integrate the extractive and the generative RC model by a multi-task learning mechanism and an answer selection module. Experimental results on TweetQA demonstrate that our NUT-RC model significantly outperforms the state-of-the-art social media-oriented RC models.",
+}
 ```
